@@ -8,13 +8,13 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="C:/opencv/build/java/opencv-2413.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacpp.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-android-arm.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-linux-x86.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-linux-x86_64.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-macosx-x86_64.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-windows-x86.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Andres/Google Drive/Aseguramiento_Shared_Folder/JARs/javacv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-android-arm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Google Drive/U/Semestre VIII/Aseguramiento_Shared_Folder/JAR&apos;S/javacv-windows-x86_64.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
